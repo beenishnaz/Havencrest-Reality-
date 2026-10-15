@@ -1,0 +1,6 @@
+{
+  "name": "Havencrest Realty",
+  "description": "Explore thoughtfully selected homes, modern apartments, and exceptional residential properties with Havencrest Realty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
